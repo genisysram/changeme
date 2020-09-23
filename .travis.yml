@@ -1,6 +1,7 @@
 os: linux
 arch:
-    -ppc64le
+    - ppc64le
+    - amd64
 
 language: python
 python:
